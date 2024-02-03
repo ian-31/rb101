@@ -1,6 +1,6 @@
 #contains message prompts for mortgage calculator#
 
-welcome: "Welcome test teset teset this loan calculator will calculate your monthly mortgage payment."
+welcome: "Welcome, use this loan calculator to calculate your monthly mortgage payment."
 
 name_input: "Please input your name:"
 
@@ -16,8 +16,10 @@ interest_rate: "Enter your interest rate % (e.g. if your rate is 3.5%, enter 3.5
 
 valid_rate: "Please make sure the rate you entered is not a negative number."
 
-loan_duration: "Please enter the term of the loan in months e.g. a 10 year loan would be 120 months."
+loan_term: "Please enter the term of the loan in months e.g. a 10 year loan would be 120 months."
 
-valid_duration: "Make sure your loan duration is a whole number divisible by 12 and at least 1 year."
+valid_term: "Make sure your loan duration is at least 1 year."
 
 another_calculation: "Do you want to calculate another payment? Say 'Y' or 'N'"
+
+goodbye: "Thank you for using mortgage calculator. Good bye!"
